@@ -1,0 +1,10 @@
+.header {background-color: salmon; height: 75px;}
+
+.content {background-color: cyan; height: 400px}
+
+.semi_footer {background-color: yellow; height: 100px}
+
+.footer {background-color: maroon; height: 50px}
+
+img {flex: auto; height: 350px; width: 750px
+}
